@@ -1,15 +1,17 @@
-[![ssttkkl's Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ssttkkl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+# Hi, I'm ssttkkl
 
-[![ssttkkl's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssttkkl)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+I'm a software engineer based in China.
 
-[![ssttkkl's Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ssttkkl&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+Outside of work, I build and maintain open-source projects around the things I use and enjoy — including cross-platform apps, libraries, developer tooling, bots, and agent integrations.
 
-[![ssttkkl's Top Langs by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssttkkl&exclude=Jupyter%20Notebook,Shell,Dockerfile)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+## Open-source highlights
 
-[![ssttkkl's Top Langs by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ssttkkl&exclude=Jupyter%20Notebook,Shell,Dockerfile)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- **[mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app)** — A Riichi Mahjong calculator app for Android, iOS, desktop, and web, built with Compose Multiplatform.
+- **[mahjong-utils](https://github.com/ssttkkl/mahjong-utils)** — A Kotlin Multiplatform library for Riichi Mahjong pairi calculation, with bindings and tooling for multiple ecosystems.
+- **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** — A maintained NoneBot plugin for Pixiv illustration delivery and subscriptions.
+- **[nonebot-plugin-access-control](https://github.com/bot-ssttkkl/nonebot-plugin-access-control)** — A reusable access-control plugin for NoneBot.
+- **[astrbot-plugin-nsjail](https://github.com/ssttkkl/astrbot-plugin-nsjail)** — Sandboxed code execution for AstrBot skills, using NsJail resource and isolation controls.
 
-<details><summary>点击请我打两把maimai</summary>
+## Things I work with
 
-![](afdian-ssttkkl.jfif)
-
-</details>
+Kotlin · Compose Multiplatform · Python · TypeScript · Docker · GitHub Actions · CLI and developer tooling
